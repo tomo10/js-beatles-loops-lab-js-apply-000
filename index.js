@@ -23,4 +23,5 @@ function iLoveTheBeatles(num) {
     arr2.push("I love the Beatles!")
     i++;
   } while (num < i)
+  return arr2;
 }
